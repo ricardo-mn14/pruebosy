@@ -37,4 +37,5 @@ def main(args=None):
 
 if __name__ == '__main__':
     print("max es un absolutokjsabcHJDBWS poposeador de popos")
+    print("otra cosa")
     main()
